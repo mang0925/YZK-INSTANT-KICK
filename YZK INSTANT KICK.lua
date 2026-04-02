@@ -1,5 +1,3 @@
-YZK INSTANT KICK
-
 -- ts file was generated at discord.gg/25ms
 
 local _call5 = Instance.new('ScreenGui')
